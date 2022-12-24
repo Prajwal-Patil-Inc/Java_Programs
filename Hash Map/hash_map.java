@@ -129,6 +129,7 @@ class TreemapHandson {
     
 }
 
+//This class should be named 'hash_map' but for testing it is named 'Main'
 public class Main
 {
     public static void main(String[] args) {
